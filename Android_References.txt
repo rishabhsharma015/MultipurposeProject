@@ -1,0 +1,12 @@
+References
+
+1) Introduction to Android:
+   http://developer.android.com/guide/index.html
+
+
+2) Android official Documentation
+   https://developer.android.com/docs
+
+
+3) Lottie-files Animation
+   https://lottiefiles.com/getting-started
